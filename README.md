@@ -1,5 +1,5 @@
 # apnacollege-demo
-This is my firsbt Repository
+This is my first git Repository
 <br>
 Author - Ashok kumar Rout
 email - ashokkumarrout929@gmail.com
